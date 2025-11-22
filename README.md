@@ -4,8 +4,8 @@
 Implement a multi-layer perceptron (MLP) to classify handwritten digits from the scikit-learn Digits dataset and evaluate how different activation functions affect convergence and test performance. 
 
 ## Structure
-- 'notebooks/digit_classification_mlp.ipynb' - full implementation with experiments and results.
-- 'requirements.txt' - Python dependencies
+- `notebooks/digit_classification_mlp.ipynb` - full implementation with experiments and results.
+- `requirements.txt` - Python dependencies
 
 ## Key Results
 - Best activation function: Tanh
