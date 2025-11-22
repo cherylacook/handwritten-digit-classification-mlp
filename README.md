@@ -2,7 +2,7 @@
 
 ## Objective
 
-# Structure
+## Structure
 - 'notebooks/digit_classification_mlp.ipynb' - Notebook with code, experiments, and results.
 - 'requirements.txt' - Python dependencies
 
