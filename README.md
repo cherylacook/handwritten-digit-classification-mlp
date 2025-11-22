@@ -16,9 +16,10 @@ Implement a multi-layer perceptron (MLP) to classify handwritten digits from the
 - Sigmoid performs substantially worse because its activations saturate, causing vanishing gradients that hinder optimisation. By contrast, Tanh (zero-centred with stronger gradients) and ReLU (non-saturating for positive inputs) support more stable and efficient training.
   
 ## How to Run
+```
 pip install -r requirements.txt
-
 jupyter notebook notebooks/digit_classification_mlp.ipynb
+```
 
 ## Summary
 A simple three-layer MLP achieves strong performance on the Digits dataset, and activation choice noticeably affects optimisation: Tanh and ReLU converge reliably, while Sigmoid suffers from gradient saturation and converges poorly.
