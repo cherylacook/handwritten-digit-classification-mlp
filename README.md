@@ -17,7 +17,6 @@ Implement a multi-layer perceptron (MLP) to classify handwritten digits from the
   
 ## How to Run
 pip install -r requirements.txt
-
 jupyter notebook notebooks/digit_classification_mlp.ipynb
 
 ## Summary
