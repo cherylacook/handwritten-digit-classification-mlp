@@ -24,3 +24,7 @@ jupyter notebook notebooks/digit_classification_mlp.ipynb
 
 ## Summary
 A simple three-layer MLP achieves strong performance on the Digits dataset, and activation choice noticeably affects optimisation: Tanh and ReLU converge reliably, while Sigmoid suffers from gradient saturation and converges poorly.
+
+## Reproducibility / Notes
+- Random seeds are fixed where applicable to ensure consistent results.
+- All code is fully contained in the provided notebook and can be run end-to-end.
