@@ -24,7 +24,8 @@ This project uses the built-in scikit-learn Digits dataset: 1,797 grayscale imag
 Python version: 3.10+ 
 ```
 pip install -r requirements.txt
-jupyter notebook digit_classification_mlp.ipynb
+jupyter notebook
+# then run digit_classification_mlp.ipynb in the browser, and run all cells in order
 ```
 
 ## Summary
