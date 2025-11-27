@@ -1,4 +1,4 @@
-# Handwritten Digits Classification with MLP
+# Handwritten Digit Classification with MLP
 
 **Note**: This project was completed as part of the AIML232 course at Te Herenga Waka — Victoria University of Wellington.
 
