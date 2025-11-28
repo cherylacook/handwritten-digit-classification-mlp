@@ -1,6 +1,6 @@
 # Handwritten Digit Classification with MLP
 
-**Note**: This project was completed as part of the AIML232 course at Te Herenga Waka — Victoria University of Wellington.
+This project was *completed as part of AIML232* at Te Herenga Waka — Victoria University of Wellington.
 
 ## Objective
 Implement a multi-layer perceptron (MLP) to classify handwritten digits from the scikit-learn Digits dataset. Evaluate how different activation functions affect early learning speed, convergence, and final test accuracy.
